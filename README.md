@@ -19,4 +19,4 @@ To provide a decentralized, tamper-proof, and verifiable polling system where an
 - Add weighted voting or token-based voting systems.  
 
 ## Contract Address
-To be deployed via Leather Wallet or testnet:  
+To be deployed via Leather Wallet or testnet:  ST4PFMPX7B1VQYH6W9V930YSCYYJ29QQ1A0H1XPH.voting-polls
